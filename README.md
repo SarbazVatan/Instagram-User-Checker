@@ -7,7 +7,8 @@ The Best Script That Checks Followers/Followings/Posts
 ```
 python InstagramUserChecker.py
 ```
-You can also use exe of this file for Win. Download it from releases.
+You can also use exe of this script. ![Download](https://github.com/SarbazVatan/Instagram-User-Checker/releases/download/untagged-93387ec905d34a6a9915/InstagramUserChecker.zip)
+
 
 ## Features
 - [x] Thread
